@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Styles</title>
+<style>
+p{
+    color:cyan;
+    font-size:30px;
+    font-style:verdana;
+    text-align:center;
+}
+th{
+    text-align:center;
+    color:cyan;
+    font-style:comicsans;
+    font-size:40px;
+}
+tr{
+    color:purple;
+    font-size:18;
+}
+h1{
+    font-size:50px;
+    color:blue;
+}
+</style>  
+  </head>
+    <body>
+      <p>Meeting Minutes</p>
+    <table>
+   <tr>
+   <td>
+   Date:<br>
+   Start Time:<br>
+   Location:<br>
+   Organization name:<br>
+   Meeting called by:<br>
+   Meeting purpose:<br>
+   Meeting attendants:<br>
+   <ol>
+   <li>
+   <li>
+   <li>
+   <li>
+   </ol>
+   </td>
+   </tr>
+   <tr>
+   <td>agenda<br>topic
+   </td>
+   <td>
+   time allocated:
+   </td>
+   </tr>
+   <tr>
+   <td>presenter:</td>
+   </tr>
+   <tr>
+   <td>discussion</td>
+   </tr>
+   <tr>
+   <td>
+   <textarea colspan="15" rowspan="4">
+   </textarea>
+   <td>
+   </tr>
+   <tr>
+   <td>
+   conclusion
+   </td>
+   </tr>
+   <tr>
+   <td>
+   <textarea colspan="15" rowspan="4">
+   </textarea>
+   <td>
+   </tr>
+   <tr>
+   <td>
+   actions to be taken
+   </td>
+   <td>
+   deadline
+   </td>
+   </tr>
+   <tr>
+   <td>
+   <textarea colspan="15" rowspan="4">
+   </textarea>
+   <td>
+   </tr>
+   <tr>
+   <td>agenda<br>topic
+   </td>
+   <td>
+   time allocated:
+   </td>
+   </tr>
+   <tr>
+   <td>presenter:</td>
+   </tr>
+   <tr>
+   <td>discussion</td>
+   </tr>
+   <tr>
+   <td>
+   <textarea colspan="15" rowspan="4">
+   </textarea>
+   <td>
+   </tr>
+   <tr>
+   <td>
+   conclusion
+   </td>
+   </tr>
+   <tr>
+   <td>
+   <textarea colspan="15" rowspan="4">
+   </textarea>
+   <td>
+   </tr>
+   <tr>
+   <td>
+   actions to be taken
+   </td>
+   <td>
+   deadline
+   </td>
+   </tr>
+   <tr>
+   <td>
+   <textarea colspan="15" rowspan="4">
+   </textarea>
+   <td>
+   </tr>
+   </table>
+   Time ended
+    </body>
+</html>
